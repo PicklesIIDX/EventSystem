@@ -6,7 +6,7 @@ allows developers without coding experience the ability to create content for yo
 
 # Installation
 
-Clone (or download) the repository and open with Unity 4.3 or higher. Older versions may work, but they have been
+Clone (or download) the repository and open the eventsystem project with Unity 4.3 or higher. Older versions may work, but they have been
 untested. 
 
 Alternatively, to import into an existing project, just copy the Event System folder in the Assets folder of the
