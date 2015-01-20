@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Event System/Triggers/EventTriggerWaitForEvent.cs">
+    <Files>
+      <File FileName="Assets/Event System/EventMessageReceiver.cs" Line="5" Column="1" />
+      <File FileName="Assets/Event System/EventGroupTrigger.cs" Line="5" Column="1" />
+      <File FileName="Assets/Event System/Events/EventBase.cs" Line="6" Column="1" />
+      <File FileName="Assets/Event System/Events/EventCallEventMessage.cs" Line="6" Column="1" />
+      <File FileName="Assets/Event System/Events/EventDebugLog.cs" Line="6" Column="1" />
+      <File FileName="Assets/Event System/Events/EventDelay.cs" Line="6" Column="1" />
+      <File FileName="Assets/Event System/Events/EventWaitForEvent.cs" Line="6" Column="1" />
+      <File FileName="Assets/Event System/Triggers/EventSubSequence.cs" Line="6" Column="1" />
+      <File FileName="Assets/Event System/Triggers/EventTriggerTimeSinceLevelLoad.cs" Line="6" Column="1" />
+      <File FileName="Assets/Event System/Triggers/EventTrigger.cs" Line="6" Column="1" />
+      <File FileName="Assets/Event System/Triggers/EventTriggerWaitForEvent.cs" Line="6" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
